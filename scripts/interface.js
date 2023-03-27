@@ -49,7 +49,7 @@ function restart(){
 
     if(gameOver){
         
-        window.reload()
+        window.location.reload()
         
         
     }else{
